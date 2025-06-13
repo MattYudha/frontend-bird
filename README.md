@@ -1,4 +1,4 @@
-Kicau Finder
+🐦 Kicau Finder: Identifikasi Suara Burung dengan AI
 
 
 
@@ -15,7 +15,7 @@ Skrip yang Tersedia
 Struktur Proyek
 Lisensi
 Fitur Utama
-Identifikasi Suara Burung: Unggah file audio atau rekam suara burung secara langsung untuk mendapatkan prediksi spesies berbasis AI dengan cepat dan akurat.
+Identifikasi Suara Burung: Unggah file audio, rekam suara secara langsung, atau gunakan URL untuk mendapatkan prediksi spesies berbasis AI dengan cepat dan akurat.
 Birdpedia Ensiklopedia Burung: Jelajahi koleksi data lengkap mengenai berbagai spesies burung, termasuk deskripsi, habitat, perilaku, dan fakta menarik lainnya.
 Riwayat Identifikasi: Simpan dan lihat kembali semua riwayat identifikasi Anda sebelumnya untuk melacak penemuan Anda.
 Antarmuka Pengguna Modern: Desain yang bersih, modern, dan intuitif dengan animasi yang halus menggunakan Framer Motion dan Tailwind CSS.
@@ -101,7 +101,7 @@ Struktur file dan folder utama dalam direktori src diatur sebagai berikut untuk 
 ├── assets/             # Gambar statis dan aset lainnya
 ├── components/         # Komponen UI yang dapat digunakan kembali
 │   ├── birdpedia/      # Komponen khusus untuk halaman Birdpedia
-│   ├── common/         # Komponen umum seperti
+│   ├── common/         # Komponen umum seperti Button, Spinner, dsb.
 │   └── layout/         # Komponen tata letak (Navbar, Footer)
 ├── config/             # Konfigurasi aplikasi (misal: Axios)
 ├── data/               # Data statis atau mock data
